@@ -1,0 +1,12 @@
+{
+   "content_scripts": [ {
+      "include_globs": [ "*" ],
+      "js": [ "jquery.js", "script.js" ],
+      "matches": [ "<all_urls>" ]
+   } ],
+   "converted_from_user_script": false,
+   "description": "",
+   "name": "Alkoholi sensuuri",
+   "manifest_version": 10,
+   "version": "0.1"
+}
