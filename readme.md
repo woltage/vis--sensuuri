@@ -1,4 +1,4 @@
-Koska olen kuuliainen suomenkansalainen päätin toteuttaa itselleni sensuuri plugarin, jonka avulla pystyn pysymään kaidalla tiellä.
+Koska olen kuuliainen suomen kansalainen päätin toteuttaa itselleni sensuuri plugarin, jonka avulla pystyn pysymään kaidalla tiellä.
 
 Kuvista näet kuinka plugari toimii. Kuvissa ensimmäinen on ennen plugarin käyttöönottoa.
 
